@@ -1,0 +1,9 @@
+com/mongodb/starter/models/CaseSummary.class
+com/mongodb/starter/models/CoronaCase.class
+com/mongodb/starter/HaberParser.class
+com/mongodb/starter/repositories/MongoDBCoronaCaseRepository.class
+com/mongodb/starter/repositories/CoronaCaseRepository.class
+com/mongodb/starter/SpringConfiguration.class
+com/mongodb/starter/SwaggerConfig.class
+com/mongodb/starter/ApplicationStarter.class
+com/mongodb/starter/controllers/CoronaCaseController.class
